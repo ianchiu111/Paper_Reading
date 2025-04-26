@@ -17,8 +17,18 @@
     - 2️⃣ systems innovation(系統創新)：**優化組織流程並支援永續**
     - 3️⃣ business-model innovation(商業模式創新)：**重新設計核心產品與服務**，實現循環經濟模式
     - ✴️可以知道**資訊系統**在資管的價值 ➡️ 省思：偽漂綠的思考方向可從`幫企業作證永續的行為與結果`改為`讓企業證明自己永續的價值`
-- 
-
+### IS 的三大見解
+1. Technology Innovation **(科技創新)**
+  - Shaping organizational readiness **(塑造組織準備度)** ➡️ IS 具備收集、處理、儲存與分發資訊的特點，可利用 IS 優化生產效率 ➡️ **針對蒐集到的能源使用資料、碳排放進行量化與分析**
+  - Shaping organizational operations with independent technology **(強化組織作業)** ➡️ IS 可以幫助企業內部優化資料中心能效、改良軟體架構與演算法、以及推動職場虛擬化(WFH/WFA) ➡️ **直接降低 IT 及相關業務流程的能源消耗與碳排放**
+2. System Innovation **(系統創新)**
+  - Shaping organizational operations with sociotechnical systems **(優化組織作業的社會技術系統)** ➡️ 環境管理系統（EMS）將跨部門、跨單位的環境績效數據彙整、分析與報告，使關鍵資訊在公司內部與價值鏈上下游皆具備可見度 ➡️ **解決企業內部資訊不透明、可能造假、上下游廠商漂綠等潛在議題，進而展現出企業真正的永續價值**
+    - ✴️ 當今的 EMS 是否可以進行優化?
+    - ✴️ EMS 要如何監管企業內部、上下游廠商?
+  - Shaping organizational systems thinking **(培養系統思維)** ➡️ 資訊系統可促成**數位轉型**，延伸至新商業生態系 ➡️ 永續議題往往具備複雜跨界特性，資訊系統則具備連結不同範疇的優點
+3. Business-Model Innovation **(商業模式創新)**：
+  - Shaping organizational strategy **(策略整合)** ➡️
+  - Shaping organizational product and service solutions **(產品與服務解方)** ➡️
 ---
 ## 結論
 
