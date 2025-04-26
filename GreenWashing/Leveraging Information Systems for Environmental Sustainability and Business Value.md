@@ -13,6 +13,10 @@
 - 要怎麼證明永續的行為可以幫助企業創造永續價值
 - 
 ---
+<p align=”center”>
+<img src=”""" width=500 height=500>
+</p>
+
 ![image](https://github.com/user-attachments/assets/d311fd03-62ad-428d-9a81-e803e29ee1eb)
 
 
