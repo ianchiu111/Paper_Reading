@@ -12,3 +12,6 @@
   - data analysis poverty (資料分析匱乏) ➡️
   - identification of research scope (研究範疇不明) ➡️
   - research methods (研究方法) ➡️
+
+## 結論
+1. 本篇論文在探討**為甚麼 IS 的學術研究這麼少的原因**，因為與我想要的**漂綠**議題較無關所以捨棄先不看
