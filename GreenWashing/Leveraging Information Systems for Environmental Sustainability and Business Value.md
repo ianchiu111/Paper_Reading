@@ -46,4 +46,20 @@
   - Achievement：展現企業努力的方向與目標
   - Green Paper：展現各企業永續結合商業價值的重要性
   - Data：為未來的跨產業永續作準備，提供透明化的數據作為永續專案與目標的佐證
-3. 如何用 IS 做到**真正蒐集永續數據**的方式??
+3. 如何用 IS 做到**真正蒐集永續數據**的方式
+  - ERP：支援永續數據整合
+  - SAP：透過敏捷部署彌補業務流程缺口，確保生產永續性
+4. 下一步尋找的論文
+  - 關鍵字：ERP、SAP、企業永續
+  - 結果：
+    -  MIS Quarterly `Spurring Impactful Research on Information Systems for Environmental Sustainability`
+        - 概要： 探討如何透過ERP系統整合永續數據以解決「漂綠」問題，特別關注系統設計如何提升企業ESG報告的可驗證性
+        - [Link：https://misq.org/misq/downloads/download/editorial/587/](https://misq.org/misq/downloads/download/editorial/587/)
+    -  European Journal of Information Systems `Green Disposable Packaging and Communication: The Implications of Bring-Your-Own-Container Programs`
+        - 概要： 企業推行自帶容器(BYOC)政策時，如何透過包裝選擇與綠色聲明影響環境績效，揭示新型態漂綠風險：當企業過度強調BYOC卻忽略一次性包裝污染時，可能造成整體環境危害
+        - [Link：https://pubsonline.informs.org/doi/10.1287/msom.2021.0605](https://pubsonline.informs.org/doi/10.1287/msom.2021.0605)
+    -  Decision Support Systems `Unveiling Green Facades: Exploring the Confluence of Greenwashing and Fake News`
+        - 概要： 開發AI驅動漂綠檢測模型，比較假新聞與漂綠在數據特徵、傳播模式與檢測方法的異同，提出可遷移的深度學習架構（如BERT變體），適用於分析企業永續報告中的矛盾敘述
+        - [Link：https://aisel.aisnet.org/wi2024/16/](https://aisel.aisnet.org/wi2024/16/)
+
+  - 
