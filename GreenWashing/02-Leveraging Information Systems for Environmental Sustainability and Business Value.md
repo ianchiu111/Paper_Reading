@@ -30,8 +30,10 @@
 3. Business-Model Innovation (商業模式創新)：
   - Shaping organizational strategy (策略整合) ➡️ 將**評估永續實踐成熟度**納入決策流程
   - Shaping organizational product and service solutions (產品與服務解方) ➡️ 思考產品的**生命週期與價值鏈**，e.g. 採用資訊系統捕捉與分析產品碳足跡等數據
+
 ---
-## 結論
+## 論文心得
+
 ### 如何從永續走向商業價值
 1. 意識永續：利用 IS 協助監測、報告、決策支援等功能，提升企業對永續的承諾
 2. 產品永續：透過 IS 推動減材化、追蹤與分析產品與流程，降低能源與資源使用
@@ -39,8 +41,6 @@
 4. 跨產業永續：永續資料可在線上平台獲得，實現跨組織、跨產業的永續資訊可交換性與可比性
 5. 生態系永續：上下游夥伴企業共享可靠永續數據，共同實現全生命周期的永續目標。
 
----
-### 論文心得
 1. 目前企業在永續的層面似乎還**停留在企業永續的階段**，因此我們可以發現「**做永續不等於獲得商業價值**」的概念仍在努力說服企業與投資者
 2. 建立一個平台，各企業可在平台發布企業資料，以達到跨產業永續的效果
   - Project and Performance：了解企業目前的成效與結果
@@ -62,5 +62,3 @@
     -  Decision Support Systems `Unveiling Green Facades: Exploring the Confluence of Greenwashing and Fake News`
         - 概要： 開發AI驅動漂綠檢測模型，比較假新聞與漂綠在數據特徵、傳播模式與檢測方法的異同，提出可遷移的深度學習架構（如BERT變體），適用於分析企業永續報告中的矛盾敘述
         - [Link：https://aisel.aisnet.org/wi2024/16/](https://aisel.aisnet.org/wi2024/16/)
-
-  - 
