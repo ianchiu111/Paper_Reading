@@ -58,6 +58,6 @@
     -  MIS Quarterly `Spurring Impactful Research on Information Systems for Environmental Sustainability`
         - 概要： 探討如何透過ERP系統整合永續數據以解決「漂綠」問題，特別關注系統設計如何提升企業ESG報告的可驗證性
         - [Link：https://misq.org/misq/downloads/download/editorial/587/](https://misq.org/misq/downloads/download/editorial/587/)
-    -  Decision Support Systems `Unveiling Green Facades: Exploring the Confluence of Greenwashing and Fake News`
-        - 概要： 開發AI驅動漂綠檢測模型，比較假新聞與漂綠在數據特徵、傳播模式與檢測方法的異同，提出可遷移的深度學習架構（如BERT變體），適用於分析企業永續報告中的矛盾敘述
-        - [Link：https://aisel.aisnet.org/wi2024/16/](https://aisel.aisnet.org/wi2024/16/)
+    -  Communications of the Association for Information Systems `IT-enabled Sustainability Transformation—the Case of SAP`
+        - 概要： 探討 SAP 如何推動永續轉型並分析IT在企業永續策略與執行中的效益與挑戰
+        - [Link：https://aisel.aisnet.org/cais](https://aisel.aisnet.org/cais)
