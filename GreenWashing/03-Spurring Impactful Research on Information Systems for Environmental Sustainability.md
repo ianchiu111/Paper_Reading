@@ -19,6 +19,9 @@
 - Green IT：探討科技能源效率與設備利用（Watson et al. 2008）
 
 ### 三篇 Special Issues Articles
+
+❗可作為延伸閱讀，但每篇都需要額外付費才可以閱讀
+
 1️⃣ [**Sensemaking and Sustainable Practicing: Functional Affordances of Information Systems in Green Transformations**](https://misq.umn.edu/sensemaking-and-sustainable-practicing-functional-affordances-of-information-systems-in-green-transformations.html)
 
 **綠色 IS 的討論範疇**：組織永續轉型之綠色IS
