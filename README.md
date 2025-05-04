@@ -10,26 +10,26 @@
 8. Journal of Information Technology
 9. Information & Management
 10. Decision Support Systems
-Decision Sciences
-Information and Organization
-International Journal of Electronic Commerce
-International Journal of Information Management
-Human-Computer Interaction
-Information Systems Frontiers
-International Journal of Human-Computer Studies
-Internet Research
-Data Base for Advances in Information Systems
-Information Technology and People
-Electronic Markets
-Communications of the Association for Information Systems
-Information Society
-Electronic Commerce Research and Applications
-Journal of Global Information Management
-Electronic Commerce Research
-Journal of Organizational Computing and Electronic Commerce
-Information Technology and Management
-Information Systems Management
-Information Systems and e-Business Management
+11. Decision Sciences
+12. Information and Organization
+13. International Journal of Electronic Commerce
+14. International Journal of Information Management
+15. Human-Computer Interaction
+16. Information Systems Frontiers
+17. International Journal of Human-Computer Studies
+18. Internet Research
+19. Data Base for Advances in Information Systems
+20. Information Technology and People
+21. Electronic Markets
+22. Communications of the Association for Information Systems
+23. Information Society
+24. Electronic Commerce Research and Applications
+25. Journal of Global Information Management
+26. Electronic Commerce Research
+27. Journal of Organizational Computing and Electronic Commerce
+28. Information Technology and Management
+29. Information Systems Management
+30. Information Systems and e-Business Management
 
 ## Paper_Reading
 - 快速翻譯論文內容
