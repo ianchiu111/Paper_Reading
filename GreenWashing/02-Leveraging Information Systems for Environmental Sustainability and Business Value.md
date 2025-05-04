@@ -54,10 +54,9 @@
   - SAP：透過敏捷部署彌補業務流程缺口，確保生產永續性
 4. 下一步尋找的論文
   - 關鍵字：ERP、SAP、企業永續
+  - 初步調查：ERP 最初設計目的在於整合財務、製造與供應鏈等核心業務流程，並未包含完整的環境指標追蹤與報告功能 ➡️ 是否可針對 ERP 新增永續相關的功能
   - 結果：
     -  MIS Quarterly `Spurring Impactful Research on Information Systems for Environmental Sustainability`
         - 概要： 探討如何透過ERP系統整合永續數據以解決「漂綠」問題，特別關注系統設計如何提升企業ESG報告的可驗證性
         - [Link：https://misq.org/misq/downloads/download/editorial/587/](https://misq.org/misq/downloads/download/editorial/587/)
-    -  Communications of the Association for Information Systems `IT-enabled Sustainability Transformation—the Case of SAP`
-        - 概要： 探討 SAP 如何推動永續轉型並分析IT在企業永續策略與執行中的效益與挑戰
-        - [Link：https://aisel.aisnet.org/cais](https://aisel.aisnet.org/cais)
+
