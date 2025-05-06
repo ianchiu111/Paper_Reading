@@ -53,7 +53,7 @@
   - ERP：支援永續數據整合
   - SAP：透過敏捷部署彌補業務流程缺口，確保生產永續性
 4. 下一步尋找的論文
-  - 關鍵字：ERP、SAP、企業永續
+  - 關鍵字：ERP、SAP、企業永續、Green IS
   - 初步調查：ERP 最初設計目的在於整合財務、製造與供應鏈等核心業務流程，並未包含完整的環境指標追蹤與報告功能 ➡️ 是否可針對 ERP 新增永續相關的功能
   - 結果：
     -  MIS Quarterly `Spurring Impactful Research on Information Systems for Environmental Sustainability`
