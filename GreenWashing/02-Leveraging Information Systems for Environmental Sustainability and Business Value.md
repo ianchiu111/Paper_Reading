@@ -59,4 +59,5 @@
     -  MIS Quarterly `Spurring Impactful Research on Information Systems for Environmental Sustainability`
         - 概要： 探討如何透過ERP系統整合永續數據以解決「漂綠」問題，特別關注系統設計如何提升企業ESG報告的可驗證性
         - [Link：https://misq.org/misq/downloads/download/editorial/587/](https://misq.org/misq/downloads/download/editorial/587/)
+  - 其他發現：同時探討 ERP/SAP 以及 永續議題的論文較少，或是我搜尋的方向錯誤❓
 
