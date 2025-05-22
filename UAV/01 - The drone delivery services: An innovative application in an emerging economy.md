@@ -55,10 +55,26 @@
 3. **Last Mile Delivery** v.s. **Wireless Last Mile Delivery**
     - 無人機對於電商的 Last Mile Delivery 有重要的幫助
       - doing well at the last mile delivery stage is extremely important for e-commerce companies because it has a significant impact on consumer satisfaction in the online shopping experience (Vakulenko et al., 2019)
-    - 
-4. 
-
 
 ## 論文心得
 
+### 一、 電子商務的挑戰
+1. 包裹量增加導致倉儲空間需求提升
+2. 包裹量成長提高倉儲管理複雜度
 
+### 二、 無人機的優勢與送貨服務的應用
+1. 貨物載運能力
+  - 幫助商家由被動等待消費者領取，轉變為主動配送服務
+  - 降低倉儲空間的最低儲存容量與管理難度
+2. 程式化與導航控制
+  - 結合程式自動化與 GPS 定位，實現無人機自主派送
+  - 可設定航線、避障與返航策略，提升配送效率
+
+### 三、 後續的研究議題
+1. 無人機是否能改變消費者的取貨行為
+2. 消費需求與派送次數提升，需加強空中交通管制方案
+3. 如何確保包裹準確且完整送達
+4. 程式自動化的穩定性
+5. 無人機的最大送貨距離
+6. 是否可以結合 RFID 與 AI 技術，完善無人機的空中交通管理
+  - 想法來自汽車的輔助駕駛功能，透過 RFID 確保無人機之間的距離，以避免出現相撞的問題，進而優化無人機的空中交通管理
