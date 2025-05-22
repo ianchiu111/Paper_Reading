@@ -25,16 +25,17 @@
       - ✅ 無人機優點：
         - 速度快
         - 成本低
-        - 環境友善
-        - 無人機可搭載多種系統與設備，如：GPS、攝影紀錄功能
+        - 可透過程式控制，達到自動化送貨服務
+          - Users can control the drone with a remote controller or/and pre-programmed it with GPS-based coordinates and routes (Khanh et al., 2023).
+          - Many drones now have built-in GPS, so they can always locate where they are flying (Renduchintala et al., 2019).
+        - 無人機可搭載多種系統與設備，如：GPS、攝影紀錄、RFID 裝置
           - The GPS Drone delivery system will determine the consumer's location through GPS, detect the live location, and deliver the correct package within the specified time as each delivery date (Chen et al., 2022)
       - ❓ 反駁：
-        - 無人機送貨的速度真的有比真人送貨來的快嗎
-        - 如果無人機有距離的限制，那超出範圍的無人機終究是無法完成送貨的服務
-        - 無人機一次能送的貨，數量會比真人送貨來的多嗎
-        - 無人機在送貨途中發生故障，導致貨物無法正確送達怎麼辦
-        - 無人機未經允許飛越私人住宅是否會侵犯隱私權
-        - 無人機的成本高低取決於飛行距離與高度的需求
+        - 無人機送貨的速度真的有比真人送貨來的快嗎 ➡️ 可確認單次送貨的成本來反駁
+        - 如果無人機有距離的限制，那超出範圍的無人機終究是無法完成送貨的服務 ➡️ 可以搭配電商作為無人機的送貨基地，彌補單次送貨距離存在限制的問題
+        - 無人機在送貨途中發生故障，導致貨物無法正確送達怎麼辦 ➡️ 若電商願意引入無人機送貨服務，減少倉儲成本，則可以與電商討論風險的處理
+        - 無人機未經允許飛越私人住宅是否會侵犯隱私權 ➡️ 需在程式控制中完善 GPS 的路徑控制
+        - 無人機的成本高低取決於飛行距離與高度的需求，且無人機一次能送的貨，數量會比真人送貨來的多嗎 ➡️ 可透過大量的包裹進行測試，比較單次送貨的成本
     
     - 為什麼**一定不要**使用無人機作為送貨服務的方式
       - ❌ 無人機的缺點：
