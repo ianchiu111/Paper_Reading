@@ -4,7 +4,7 @@
 - 作者名稱：`Khanh Chi, N. T., Phong, L. T. & Hanh, N. T.`
 - 期刊名稱：`Information & Management, (2023) Vol. 39, Issue 2.`
 - 期刊連結：[https://www.sciencedirect.com/science/article/pii/S2092521223000020?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S2092521223000020?via%3Dihub)
-  - 目前讀完 2.1 章
+
 ## 論文重點整理
 1. 探討「**無人機送貨服務**對**新興經濟體**中客戶使用無人機意願的關鍵決定因素」
     - 因素：
@@ -78,4 +78,20 @@
 4. 程式自動化的穩定性
 5. 無人機的最大送貨距離
 6. 是否可以結合 RFID 與 AI 技術，完善無人機的空中交通管理
-  - 想法來自汽車的輔助駕駛功能，透過 RFID 確保無人機之間的距離，以避免出現相撞的問題，進而優化無人機的空中交通管理
+   - 想法來自汽車的輔助駕駛功能，透過 RFID 確保無人機之間的距離，以避免出現相撞的問題，進而優化無人機的空中交通管理
+
+### 四、 無人機的送貨服務與 AI Risk 的關聯
+**2. 隱私與安全**：無人機送貨時未經允許拍攝隱私資訊 ♾️ AI 儲存與透漏個人隱私資訊
+
+**4. 惡意行為者與濫用**：程式控制的送貨無人機是否存在劫機的問題 ♾️ AI 系統存在駭客入侵的風險
+
+## 發想主題
+### 一、 延伸無人機送貨服務與 AI Risk 的主題
+1. 利用 AI 移除無人機影片中存在個人隱私資訊的部分
+   - AI Model Research - 概念呈現：
+     - [Tune-A-Video](https://github.com/showlab/Tune-A-Video/blob/main/README.md)：可輸入影片與文字，修改影片內容。目前看到的都是影片的風格與人物，詳細資訊是否可以移除待確認
+
+### 二、 RFID-enabled UAV 實現空中交通管理
+1. 人為操控 UAV + RFID Reader/Tag + 多天線 AoA ➡️ 透過 RSSI 閾值判斷是否過近（有撞擊風險）、並結合多天線 AoA 估算方向，最終回傳「左邊/右邊有無人機，請小心駕駛」給操作者
+2. 程式自動化操控 UAV + RFID Reader/Tag + AI/ML ➡️ ❗這個主題會需要大量的演算法，較難在短期實現
+
