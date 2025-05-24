@@ -36,7 +36,7 @@
   - 選用模型：`gpt o4-mini-high`
   - Prompt + 論文附件：
     ``` Plaintext
-    Step 1: Please use the OCR function to identify all the English contents(such as the tables, formulas, and paper contents) from title "-----" until title "-----" and print them in English in this journal.
+    Step 1: Please use the OCR function to identify all the English contents without any modifications and summarizations (Please only focus on paper contents to avoid uncompleted print out) from title "-----" until title "-----" and print them in English in this journal.
     (------ 人工確認是否完整辨識所有的論文內容、缺漏內容)
     Step 2: Please translate all the english contents into traditional chinese without any modification and summarize.
     ```
