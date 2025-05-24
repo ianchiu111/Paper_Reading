@@ -82,15 +82,41 @@
    - 可將論文中 UAV 的特性與 AI Risk 做關聯
    - ✴️ 論文撰寫時針對**學術領域**，而不探討業界現有的可能性
 4. ✴️ 基於本片論文所延伸的風險
-   - 本篇論文似乎尚未討論到 **當 LMDD 普及後可能會衍生的空中交通疑慮**
-   - 該疑慮隸屬於**空中交通風險**類型 (並未包含在程式碼、物件、訊號風險中) ➡️ **受威脅的實體將不再受限於單一 Single UAV System，而是 Multiple UAV System (受威脅的物件將擴大至多 UAV 系統)** ➡️ 大幅增加合規性顧慮及服務顧慮
+   - 本篇論文似乎尚未討論到，LMDD 普及後可能會衍生 **Multiple UAV System 的空中交通疑慮**，該疑慮隸屬於**M-UAV 空中交通風險**類型 (並未包含在程式碼、物件、訊號風險中) ➡️ **受威脅的實體將不再受限於單一 Single UAV System，而是 Multiple UAV System (受威脅的物件將擴大至 M-UAV 系統)** ➡️ 大幅增加合規性顧慮及服務顧慮
+5. 關於**物件風險**，文獻沒有特別討論，但多個案例有呈現該問題 ➡️ 文獻空白❓
 
-### Last Mile Drone Delivery 與 AI Risk 的關聯
-逐一對照 LMDD Risk 及 AI Risk 
-1. 程式碼風險：
-2. 物件風險：
-3. 訊號風險：
-4. ✴️ 空中交通風險：
+### 對照 LMDD Risk 及 AI Risk 的關聯：
 
+**論文中的風險與 AI Risk 的關聯性高，先舉五個例子作證明**
+1. 程式碼風險 - `惡意軟體、病毒的攻擊` ♾️ **4.3 Fraud, scams, and targeted manipulation**
+   - Many such attacks are through malware or software viruses/worms that are essentially computational codes that affect the drone information systems (Choudhary et al., 2019; Nguyen & Nguyen, 2021; Rugo et al., 2022).
+2. 物件風險 - `包裹、硬體設備等` + 程式碼風險 - `資料儲存/外洩` ♾️ **2. Privacy & Security**
+   - Risk from objects relates to potential intentional physical harm that could be inflicted on the drone and/or its payload. These objects are external entities that attempt to physically derail drone-based last mile delivery from successful completion with no security or privacy violations (Fouda, 2018; Guo et al., 2020; Kong, 2021; Multerer et al., 2017; Nassi, Bitton, et al., 2021)
+   - Incorrect parameter settings could be inserted into the drone systems to disable normal operations or enable unnecessary and dangerous drone operations. Even When the drone information systems perform normally, stored data such as private customer information could be exposed.
+3. 訊號風險 - `中繼攻擊（relay attack）、重放攻擊（replay attack）等皆為有意透過技術進行網路攻擊或濫用` ♾️ **4.2 Cyberattacks, weapon development or use, and mass harm**
+   - Relay attack can be mounted on drones whereby communication between a drone and an entity that is authorised to communicate with this drone is relayed between the drone and the entity by adversaries that are physically positioned between the communicating parties.
+4. 訊號風險 - `GPS 欺騙（spoofing）` ♾️ **3.1 False or misleading information**
+   - a drone could be subject to GPS spoofing attacks. Spoofing in this context signifies that GPS messages between a drone and GPS satellites are falsified
+5. 訊號風險 - `訊號干擾與欺騙` ♾️ **7.3 Lack of capability or robustness**
+   - a drone jamming attack refers to repeat edly sending signals to a drone sensor at high frequency to overload the sensor so it becomes too busy to respond and also to perform any other task. It could also be the case for noise to be used to block communication with a drone.
 
+**對照 M-UAV 空中交通風險 與 AI Risk 的關聯性**
+
+`M-UAV 指的是 Multiple UAV System`
+1. M-UAV 空中交通風險 - `航線規劃` ♾️ **7.3 Lack of capability or robustness**
+   - 案例舉例：多機航線規劃與碰撞避免需求凸顯系統對複雜空域的監管能力不足問題
+      - [Reference](ttps://www.sciencedirect.com/science/article/pii/S1674862X25000047?via%3Dihub)
+   - 案例舉例：若演算法無法即時分析，易導致多機航線交叉與事故風險提升
+      - [Reference](https://www.sciencedirect.com/science/article/pii/S1366554524004502?via%3Dihub)
+2. M-UAV 空中交通風險 - `無人機武器化` ♾️ **4.2 Cyberattacks, weapon development or use, and mass harm**
+   - 案例舉例：協同無人機編隊可被用於大規模攻擊，如阿美科煉油廠的無人機襲擊
+      - [Reference](https://www.airsight.com/blog/saudi-arabia-drone-attack-on-critical-infrastructures-after-action-report)
+3. M-UAV 空中交通風險 - `Multiple UAV System 監管失敗` ♾️ **6.5 Governance failure** 
+   - 案例舉例：坦尚尼亞無人機交通管理（UTM）運營失敗造成監管缺失
+      - [Reference](https://www.unmannedairspace.info/uncategorized/the-lessons-of-failure-drone-delivery-and-utm-operations-fail-to-impress-tanzanias-regulators/)  
+4. M-UAV 空中交通風險 - `空中交通擁堵與噪音汙染` ♾️ **6.6 Environmental harm**
+   - 案例舉例：商業無人機配送的頻繁短途飛行顯著增加城市空域擁堵與噪音污染
+      - [Reference](https://www.mdpi.com/2571-8797/7/1/24)
+
+   
 
