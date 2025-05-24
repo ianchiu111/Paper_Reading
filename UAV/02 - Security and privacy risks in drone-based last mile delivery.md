@@ -87,7 +87,8 @@
 
 ### 對照 LMDD Risk 及 AI Risk 的關聯：
 
-**論文中的風險與 AI Risk 的關聯性高，先舉五個例子作證明**
+**✴️ 論文中的風險與 AI Risk 的關聯性高，先舉五個例子作證明**
+**✴️ 論文中的風險有提供解決辦法，若後續有需要進行正反方辯論可再使用**
 1. 程式碼風險 - `惡意軟體、病毒的攻擊` ♾️ **4.3 Fraud, scams, and targeted manipulation**
    - Many such attacks are through malware or software viruses/worms that are essentially computational codes that affect the drone information systems (Choudhary et al., 2019; Nguyen & Nguyen, 2021; Rugo et al., 2022).
 2. 物件風險 - `包裹、硬體設備等` + 程式碼風險 - `資料儲存/外洩` ♾️ **2. Privacy & Security**
