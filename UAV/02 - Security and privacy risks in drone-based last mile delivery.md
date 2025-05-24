@@ -80,10 +80,13 @@
 3. 論文聚焦主題的方式：UAV ➡️ LMDD ➡️ 脆弱性、威脅、攻擊、損害、延遲、中斷與風險
    - 可從本論文了解如何改善 UAV 執行任務的穩定性
    - 可將論文中 UAV 的特性與 AI Risk 做關聯
-   - ✴️ 論文撰寫時針對**學術領域**，而不探討業界現有的可能性
+   - 關於**物件風險**，文獻沒有特別討論，但多個案例有呈現該問題 ➡️ 文獻空白❓
 4. ✴️ 基於本片論文所延伸的風險
    - 本篇論文似乎尚未討論到，LMDD 普及後可能會衍生 **Multiple UAV System 的空中交通疑慮**，該疑慮隸屬於**M-UAV 空中交通風險**類型 (並未包含在程式碼、物件、訊號風險中) ➡️ **受威脅的實體將不再受限於單一 Single UAV System，而是 Multiple UAV System (受威脅的物件將擴大至 M-UAV 系統)** ➡️ 大幅增加合規性顧慮及服務顧慮
-5. 關於**物件風險**，文獻沒有特別討論，但多個案例有呈現該問題 ➡️ 文獻空白❓
+5. ✴️ 論文撰寫時針對**學術領域**，未對相關產業進行深入探討 ➡️ 是否可先與 E-Commerce 或零售業合作，打造 UAV Delivery Service ➡️ 解決倉儲、包裹過剩的問題 
+6. 現有的解決風險方式仍存在大量的漏洞與衍生的風險
+   - 如：包裹的保護措施
+      - For example, merely counting on the parachuting mechanism is probably not suitable in many situations to protect the drone payload, but this is the only option available based on published literature. Conventionally, an adversary may use any hand-held weapon, such as a slingshot, to damage the drone payload especially when it hovers somewhere near the ground. When reachable, an adversary may directly detach the package from the drone and then take it away.
 
 ### 對照 LMDD Risk 及 AI Risk 的關聯：
 
