@@ -36,10 +36,9 @@
   - 選用模型：`gpt o4-mini-high`
   - Prompt + 論文附件：
     ``` Plaintext
-    我希望你可以根據以下的工作流程完成任務
-    1. 請你幫我利用 OCR 的功能輸出標題 "-----" 開始的所有英文內容、表格資料，請以英文呈現一直輸出直到標題 "-----"
-    2. 確保內容之完整性，且無遺漏之內容
-    3. 最後再將所有輸出的英文全部翻譯成繁體中文
+    Step 1: Please use the OCR function to identify all the English contents(such as the tables, formulas, and paper contents) from title "-----" until title "-----" and print them in English in this journal.
+    (------ 人工確認是否完整辨識所有的論文內容、缺漏內容)
+    Step 2: Please translate all the english contents into traditional chinese without any modification and summarize.
     ```
   - 測試結果：翻譯內容完整，且遇到表格也會一併產出
   - Prompt Engineering 想法來源：實作 Multiagent 需要了解**不同任務會需要不同的能力與思考方向**，因此在這邊將問題拆成**使用OCR對PDF進行掃描**再進行**需要具備較佳的語言能力的翻譯任務**
