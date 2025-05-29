@@ -54,4 +54,9 @@
 ## 論文重點整理
 ## 論文心得
 ```
-    
+
+## Paper Record
+1. Download Raw File
+2. Open with VScode
+3. Export PDF File with **Markdown PDF**
+
