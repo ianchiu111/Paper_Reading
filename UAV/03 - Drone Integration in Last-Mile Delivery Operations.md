@@ -8,6 +8,7 @@
 - 期刊連結：[論文連結](https://carijournals.org/journals/index.php/IJSCL/article/view/2286)
 
 ## 論文重點整理
+> 單純整理論文內容
 1. 本篇論文在探討空中交通管理、載重限制、法規遵循及大眾認知等營運挑戰，並強調空域管制框架、協作式物流網路與先進電池技術等方案 ➡️ 適合用來研究如何優化 LMDD 的實施
 2. 無人機技術在**提升最後一哩配送效率**方便具有顯著潛力，尤其在**都市地區與偏遠地區** ♾️ 此論點與[(Murray & Chu, 2015)](https://www.sciencedirect.com/science/article/abs/pii/S0968090X15000844?via%3Dihub)相同，可接著閱讀
 3. 研究核心問題：`如何在全球供應鏈中優化無人機整合，以創造高效、可持續且可擴展的最後一哩配送模式，惠及企業、消費者與環境？` ➡️ 探討與不同利益關係人的關聯
@@ -17,13 +18,8 @@
 4. 
 
 ## 論文心得
-1. 消費者對於電商要求逐日增加
-   - 快速出貨 
-   - 
-   - Literal Review：
-     - ♾️ `80% of consumers now expect same-day or next-day delivery options(McKinsey & Company, 2022).`
-
-2. LMDD 目前的限制太多了
+> 整理論文想法與 Literal Review
+1. LMDD 目前的限制太多了
    - 問題與解決方式：
      - ⚠️ 法規限制 
      - ⚠️ 空域管理 & 潛在碰撞疑慮
@@ -32,7 +28,8 @@
    - Literal Review：
      - ♾️ `Regulatory restrictions, safety concerns regarding airspace management and potential collisions, infrastructure limitations in certain regions, and the need for seamless integration with existing logistics networks pose significant challenges (Otto et al., 2018).`
 
-3. 電商面臨的問題
+2. 電商面臨的問題
+   - 消費者期望能夠快速出貨
    - LMD 耗費大量的成本，屬於供應鏈中最昂貴的部分
      - 物流成本
      - 倉儲成本
@@ -41,6 +38,11 @@
    - 特殊季節 & 活動造成物流需求大幅度增加，物流、電商據點該如何快速調適
    - Literal Review：
      - ♾️ `The rapid growth of e-commerce has placed immense pressure on last-mile delivery networks, the final and often most expensive leg of the supply chain(Patro, R. K., etc, 2024).`
+     - ♾️ `80% of consumers now expect same-day or next-day delivery options(McKinsey & Company, 2022).`
+
+
+
+
 
 4. 若要探討 LMDD 的議題，或許可以先從目前供應鏈(尤其物流)部分尋找瓶頸，目前的瓶頸有什麼❓
 
