@@ -20,11 +20,10 @@
 ## 論文心得
 > 整理論文想法與 Literal Review
 1. LMDD 目前的限制太多了
-   - 問題與解決方式：
-     - ⚠️ 法規限制 
-     - ⚠️ 空域管理 & 潛在碰撞疑慮
-     - ⚠️ 基礎設施限制
-     - ⚠️ 與現有物流網絡整合的方式尚未完善
+   - ⚠️ 法規限制 
+   - ⚠️ 空域管理 & 潛在碰撞疑慮
+   - ⚠️ 基礎設施限制
+   - ⚠️ 與現有物流網絡整合的方式尚未完善
    - Literal Review：
      - ♾️ `Regulatory restrictions, safety concerns regarding airspace management and potential collisions, infrastructure limitations in certain regions, and the need for seamless integration with existing logistics networks pose significant challenges (Otto et al., 2018).`
 
@@ -36,15 +35,21 @@
      - 實體店面 / 據點成本
    - 物流整合方式尚未完善
    - 特殊季節 & 活動造成物流需求大幅度增加，物流、電商據點該如何快速調適
+   - 買家與賣家的可接受度如何? ➡️ 是否可作為論文主題的一環，以提高 LMDD 的未來可行性 
+      - 賣家：商品重量、商品數量、出貨頻率等議題
+      - 買家：對安全的疑慮、隱私性、取貨方式
    - Literal Review：
      - ♾️ `The rapid growth of e-commerce has placed immense pressure on last-mile delivery networks, the final and often most expensive leg of the supply chain(Patro, R. K., etc, 2024).`
      - ♾️ `80% of consumers now expect same-day or next-day delivery options(McKinsey & Company, 2022).`
 
+3. 我發想的解決方式與對應問題
+``` PlainText
+⚠️ Question：買家與賣家的接受度問題
+🔧 Solve：賣家據點(以特定區域作為實驗場地，測試取貨能力) ↔️ 無人機中繼站(以實體店面做為充電站) ↔️ 買家據點(以特定區域作為實驗場地，測試送貨能力)
+```   
 
 
-
-
-4. 若要探討 LMDD 的議題，或許可以先從目前供應鏈(尤其物流)部分尋找瓶頸，目前的瓶頸有什麼❓
+5. 若要探討 LMDD 的議題，或許可以先從目前供應鏈(尤其物流)部分尋找瓶頸，目前的瓶頸有什麼❓
 
 
 
