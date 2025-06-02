@@ -58,7 +58,7 @@
      - ♾️ `Regulatory restrictions, safety concerns regarding airspace management and potential collisions, infrastructure limitations in certain regions, and the need for seamless integration with existing logistics networks pose significant challenges (Otto et al., 2018).`
 
 2. 電商面臨的問題
-   - 消費者期望能夠快速出貨
+   - ✴️ 消費者期望能夠快速出貨
    - LMD 耗費大量的成本，屬於供應鏈中最昂貴的部分
      - 物流成本
      - 倉儲成本
