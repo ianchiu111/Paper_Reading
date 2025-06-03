@@ -12,7 +12,14 @@
 
 ## 論文重點整理
 > 單純整理論文內容
-
+> 本篇論文選擇市場為**瑞典三大電子商務的配送方式** ➡️ 需進一步確認與**台灣市場**的媒合度
+1. 藥物的未取件率最高的族群為**青少年及年輕成人**
+  - Key Points：
+    - 原因：忙碌生活使消費者無法配合郵局營業時間前往取件
+    - 取件地點：在郵局取件
+  - Literal Review：
+    - Previous research about electronically transmitted prescriptions not picked up at pharmacies in Sweden, shows that the highest rates of no pick-up was adolescents and young adults (Ax & Ekedahl, 2009)
+2. 消費者  
 
 
 ## 論文心得
@@ -20,7 +27,20 @@
 
 1. 電商與消費者間的互動
    -  Key Points：
-     - 消費者期望能夠快速出貨(From UAV - 03)
+     - 消費者期望能夠快速出貨(Patro, R. K., 2024)(From UAV - 03)
      - 電商網站上的配送選項與消費者偏好之間存在顯著落差
      - 消費者最傾向的配送方式為 `Home Delivery` ➡️ 可假設**取貨距離會影響消費者取貨的滿意度**
+       - 論文指出目前以「委託他們代為取貨」為 Home Delivery 暫時的替代方案 ➡️ Home Delivery 的配送金額對於消費者也是考慮的問題點
+         - 論文原因一：消費者於取件點需耗費大量時間且取件點排隊人潮過長 ➡️ 可深究是否有包裹管理 or 包裹量過大的問題
+         - 猜測原因一：屬於社區大樓的住戶有管理員、警衛做為取件的負責人 ➡️ 較安全且有公信力
+         - 猜測原因二：人工配送時間無法與消費者的取件時間相符合 ❓可進一步發放問卷研究
    - Literal Reviews：
+     - A significant gap was disclosed between the available options for delivery on e-commerce
+websites and consumer preferences of last mile delivery(Islam Patowary, M. M., 2023)  
+     - the study shows that the solution may be authorize others to pick up the packages, for example a community delivery service(Islam Patowary, M. M., 2023)
+     - The study of Zhang & Li (2018) shows that even though there are pick up
+points in close proximity of the customers, most of the customers prefer their products to be
+delivered at home due to factors such as time for collection and long queues at pick-up points.
+Thus, home delivery has higher utility to customers. However, there is the financial aspect,
+when it comes to the question of how much customers are willing to pay for a preferred
+delivery.
