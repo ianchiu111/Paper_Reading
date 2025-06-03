@@ -19,7 +19,17 @@
     - 取件地點：在郵局取件
   - Literal Review：
     - Previous research about electronically transmitted prescriptions not picked up at pharmacies in Sweden, shows that the highest rates of no pick-up was adolescents and young adults (Ax & Ekedahl, 2009)
-2. 消費者  
+2. LMD in E-Commerce
+  - Key Points：
+    - LMD 成本高昂，約總成本一半
+    - 配送方式主要分成兩種
+      - Home Delivery
+      - Customer Pickup at Secondary Locations
+  - Literal Review：
+    - The costs in the last mile can be up to half of the total logistics costs (VaneIslander et al., 2013).
+    - The last mile distribution, which are home delivery and customer pickup at secondary locations
+3. LMD in Sustainability
+  - 研究角度：Environmental sustainability, effectiveness and efficiency
 
 
 ## 論文心得
@@ -31,7 +41,7 @@
      - 電商網站上的配送選項與消費者偏好之間存在顯著落差
      - 消費者最傾向的配送方式為 `Home Delivery` ➡️ 可假設**取貨距離會影響消費者取貨的滿意度**
        - 論文指出目前以「委託他們代為取貨」為 Home Delivery 暫時的替代方案 ➡️ Home Delivery 的配送金額對於消費者也是考慮的問題點
-         - 論文原因一：消費者於取件點需耗費大量時間且取件點排隊人潮過長 ➡️ 可深究是否有包裹管理 or 包裹量過大的問題
+         - 論文原因：消費者於取件點需耗費大量時間且取件點排隊人潮過長 ➡️ 可深究是否有包裹管理 or 包裹量過大的問題
          - 猜測原因一：屬於社區大樓的住戶有管理員、警衛做為取件的負責人 ➡️ 較安全且有公信力
          - 猜測原因二：人工配送時間無法與消費者的取件時間相符合 ❓可進一步發放問卷研究
    - Literal Reviews：
@@ -44,3 +54,15 @@ delivered at home due to factors such as time for collection and long queues at 
 Thus, home delivery has higher utility to customers. However, there is the financial aspect,
 when it comes to the question of how much customers are willing to pay for a preferred
 delivery.
+
+2. 或許可以探討 LMDD 實際在電商的應用並延伸到 SCM + Sustainability
+  - 閱讀過的永續相關論文可以接著使用
+  - 填補產業中較少實際應用 UAV 配送服務的研究內容
+  - 增加了 SCM 的範疇 ➡️ 可以考慮的問題維度增加 
+3. 
+
+
+
+
+
+
