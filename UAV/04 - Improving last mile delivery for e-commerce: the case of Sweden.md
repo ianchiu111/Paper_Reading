@@ -82,7 +82,9 @@ delivery.
 - RFID + 密碼箱 ➡️ 作為安置包裹的手段
 - GPS ➡️ 作為實現 UAV 自動導航至**充電站**或**密碼箱**的方式
 - 路徑規劃 + 零售業據點設置的充電站 ➡️ 作為 UAV 長途配送包裹的解決辦法
-- 
+- 概念架構圖
+![image](https://github.com/user-attachments/assets/b7fcfa9c-d055-4db2-8a2a-c2def2158a20)
+
 
 
 
