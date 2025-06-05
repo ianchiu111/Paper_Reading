@@ -25,12 +25,22 @@
     - 配送方式主要分成兩種
       - Home Delivery
       - Customer Pickup at Secondary Locations
+  - Strategy for LMD：
+    - 需考慮**配送渠道、配送區域、外包程度** ✴️這部分較複雜，若要做 LMDD 需先定義 User Scenario 再來確定以下三點
+      - 配送渠道：
+        - 企業自有車隊配送到家（base on home delivery）
+        - 第三方快遞，如：黑貓、FedEx 等快遞公司送至特地地點
+        - 多層次配送：中央倉庫 → 區域配送中心 → 分配站 → 末端配送站，再由末端配送站配送到顧客
+          - ❌ 缺點：需要花費大量的成本進行儲備、管理、運送等步驟
+      - 配送區域：此部分考慮的為 LMD 可以覆蓋的範圍
+        - 全國 
+      - 外包程度：
   - Literal Review：
     - The costs in the last mile can be up to half of the total logistics costs (VaneIslander et al., 2013).
     - The last mile distribution, which are home delivery and customer pickup at secondary locations
 3. LMD in Sustainability
   - 研究角度：Environmental sustainability, effectiveness and efficiency
-
+4. Supply Chain Management 定義：
 
 ## 論文心得
 > 整理論文想法與 Literal Review
@@ -59,7 +69,20 @@ delivery.
   - 閱讀過的永續相關論文可以接著使用
   - 填補產業中較少實際應用 UAV 配送服務的研究內容
   - 增加了 SCM 的範疇 ➡️ 可以考慮的問題維度增加 
-3. 
+
+3. 未來定義產業應用範疇時要訂定好 User Scenario
+  - 想要做的配送模式為何
+    - Home Delivery ( 送到家 )
+    - Customer Pickup at Secondary Locations ( 送到特定據點 )
+  - 
+## 解決辦法
+### UAV + RFID + GPS
+
+- UAV ➡️ 作為包裹配送的媒介
+- RFID + 密碼箱 ➡️ 作為安置包裹的手段
+- GPS ➡️ 作為實現 UAV 自動導航至**充電站**或**密碼箱**的方式
+- 路徑規劃 + 零售業據點設置的充電站 ➡️ 作為 UAV 長途配送包裹的解決辦法
+- 
 
 
 
