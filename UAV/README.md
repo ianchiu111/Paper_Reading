@@ -1,4 +1,4 @@
-### 無人機目前的特色
+## 無人機目前的特色
 1. 操控方式：pre-programmed operation OR human remote control(game console controllers、control app running on a smartphone or computer tablet)
 2. 供電方式：batteries OR engine‑driven propulsion(論文中以**on a forced basis**表示)
 3. 論文應用：
@@ -9,9 +9,16 @@
     - 理論層面：
       - 探討 **個人創新性、使用者預期結果、使用者的預期情緒與態度、產品的感知風險** 對無人機送貨服務的影響
       - 測量量表可參閱 **Reference 1 - 3. Methodology - 3.1. Measurement**
-4.   
 
+## 解決辦法
+### UAV + RFID + GPS
 
+- UAV ➡️ 作為包裹配送的媒介
+- RFID + 密碼箱 ➡️ 作為安置包裹的手段
+- GPS ➡️ 作為實現 UAV 自動導航至**充電站**或**密碼箱**的方式
+- 路徑規劃 + 零售業據點設置的充電站 ➡️ 作為 UAV 長途配送包裹的解決辦法
+- 系統概念架構圖
+![image](https://github.com/user-attachments/assets/14bc75c5-29be-4f9e-988a-fa128ed123df)
 
 ### 選擇的無人機 - PX4／ArduPilot
 [MAVSDK - 開發網站](https://mavsdk.mavlink.io/main/en/index.html)
